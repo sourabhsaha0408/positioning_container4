@@ -2,3 +2,109 @@
     padding: 0px;
     margin: 0px;
 }
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 100px 0px 250px;
+    /* border: 1px solid; */
+}
+.leftnavbar{
+    display: flex;
+    align-items: center;
+}
+.rightnavbar{
+    display: flex;
+}
+.LOGO{
+    font-size: 40px;
+    font-style: italic;
+    color: #1AC7D7;
+}
+.leftnavicon{
+    font-size: 20px;
+    color: #5C7994;
+    margin-left: 10px;
+}
+.homenamednavicon{
+    margin: 0px 15px;
+    color: #C1EBFA;
+}
+.rightnavicons{
+    margin: 0px 15px;
+    color: #A3AABC;
+}
+.introductionParagraphButtonImage{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+.introductionParagraphButton{
+    margin: 150px 0px 0px 250px;
+    width: 700px;
+}
+.introduction{
+    font-size: 60px;
+    margin-bottom: 50px;
+    color: #334674;
+}
+.paragraph{
+    color: #BBC0D1;
+    margin-bottom: 50px;
+}
+button{
+    width: 140px;
+    padding: 10px 0px;
+    border-radius: 20px;
+    border-color: #16C6DF;
+    background-color: #16C6DF;
+    color: white;
+}
+.humanImage{
+    height: 600px;
+    width: 600px;
+}
+.arrow{
+    display: flex;
+    justify-content: center;
+    height: 20px;
+    margin-top: 30px;
+}
+.LOGO2{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.howToWork{
+    display: flex;
+    justify-content: center;
+}
+.researchAndRoad{
+    display: flex;
+    margin-left: 250px;
+    margin-top: 80px;
+}
+.story{
+    width: 590px;
+}
+.digit{
+    color: #28426F;
+    font-size: 30px;
+    font-weight: bold;
+}
+.digitAndResearch{
+    display: flex;
+    align-items: center;
+}
+.research{
+    font-size: 20px;
+    font-weight: bold;
+    color: #28426F;
+    width: 150px;
+    margin-left: 10px;
+}
+.para{
+    margin: 20px 0px 30px 25px;
+    width: 400px;
+    color: #BDC2D0;
+}
